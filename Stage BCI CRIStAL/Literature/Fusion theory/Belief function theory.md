@@ -4,7 +4,7 @@ Initially introduced by Dempster (1967), formalized by Shafer (1976) and justifi
 information fusion => [[./Combination rules (BFT)|Combination rules (BFT)]]
 decision making => decision rules
 
-Another methods are described here : [[./Methods for conflict management|Methods for conflict management]]
+Another methods are described here : [[./Multiple Criteria Reliability|Multiple Criteria Reliability]]
 
 Base
 
