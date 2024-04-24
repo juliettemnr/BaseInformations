@@ -16,7 +16,7 @@
 Conflict is not the only parameter, sensor reading imperfection must be taking into account also : multiple criteria
 
 Multi-Criteria Decision Aid (MCDA)
-this study : [[./Analytical Hierarchy Process|Analytical Hierarchy Process]]
+this study : [[./Analytical Hierarchy Process (BFT)|Analytical Hierarchy Process (BFT)]]
 
 
 
