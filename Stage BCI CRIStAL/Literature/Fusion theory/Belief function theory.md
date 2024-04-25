@@ -29,3 +29,6 @@ $$ Pl(A)=1-Bel(\bar A)$$
 vacuous belief function : Bel(Θ)=1 and Bel(A)=0 for all A≠Θ
 
 ==total certainty== : m({Θ1})=1 for one particular event and m(A)=0 for the rest
+
+
+Website to implement it : https://bennycheung.github.io/dempster-shafer-theory-for-classification
