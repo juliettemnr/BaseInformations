@@ -11,7 +11,7 @@ Poor reliability causes  :
 
 2 types of paradigm : 
 - motor BCI 
-- speech BCI : overt and covert speech 
+- [[Speech BCIs]] : overt and covert speech 
 
 ==Context ==
 
